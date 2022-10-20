@@ -5,6 +5,12 @@ Utilizar la librería @faker-js/faker para generar 1000 nombres falsos y utiliza
 
 Imprimir en consola un mensaje para avisar al usuario que el proceso ha terminado satisfactoriamente o con un error.
 
+Crear la carpeta e inicializar el proyecto de npm.
+Instalar la librería @faker-js/faker
+Crear el archivo names.txt y escribir el código.
+Probar que funcione.
+Subir el resultado a un repositorio de Github. No incluir la carpeta node_modules (agregarla al .gitignore).
+
 
                                                           Resolución del reto:
 
